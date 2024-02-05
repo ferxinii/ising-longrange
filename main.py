@@ -105,7 +105,7 @@ class Statistics:
 
     def save_file(self):
         """Save the final data in a document."""
-        save_data = open("./results/data_N"+str(self.N), "w")
+        save_data = open("./simulation_results/data_N"+str(self.N), "w")
         save_data.write(' '.join([str(element) for element in self.T_vec]))
         save_data.write('\n')
         save_data.write(' '.join([str(element) for element in self.mag]))
@@ -168,7 +168,7 @@ def mc_step(state0: State, T: float) -> State:
 
 
 def make_plot(stats: Statistics):
-    """Plots results and saves the figure."""
+    """Plots simulation_results and saves the figure."""
     fig, axs = plt.subplots(2, 2)
     fig.suptitle("Resulting magnitudes as a function of Temperature, N="+str(stats.N), fontweight="bold")
 
@@ -185,7 +185,7 @@ def make_plot(stats: Statistics):
         ax.grid()
 
     plt.tight_layout()
-    plt.savefig("./results/figure_N" + str(stats.N) + ".png", dpi=1200)
+    plt.savefig("./simulation_results/figure_N" + str(stats.N) + ".png", dpi=1200)
     plt.show()
 
 
