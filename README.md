@@ -20,6 +20,5 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 ## Analytical results (from project)
 <p align="center">
-<img src="./images/summary.png" alt="Summary of MC results" width="400" height="auto" />
-<img src="./images/m_evolution.jpg" alt="Moving average of m" width="400" height="auto">
+<img src="./images/surfaces_TH.png" alt="Summary of MC results">
 </p>
