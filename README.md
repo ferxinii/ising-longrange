@@ -1,6 +1,6 @@
 # Ising model with super long-range interactions ⚡️
 This repository includes:
--  Analytic analysis (see pdf)
+-  Final project pdf. This is composed of an **analytic analysis** of the model and an exploration of the **Monte Carlo simulation** results
 -  Python code to run MC simulations of the model
 
 This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it. This repository includes the project as a pdf, and the Python code that runs the simulations. I include here some pictures from the project.
