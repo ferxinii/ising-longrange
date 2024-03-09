@@ -12,4 +12,4 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 
 ## Processed results (from project)
-![Alt text](./images/m_evolution.jpg?raw=true "Optional Title")
+![Alt text](./images/summary.png?raw=true "Optional Title")
