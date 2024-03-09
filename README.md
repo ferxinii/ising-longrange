@@ -12,6 +12,6 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 
 ## Processed results (from project)
-<img src="./images/summary.png" alt="summary of MC results" width="500" height="auto">
+<p style="text-align:center;"><img src="./images/summary.png" alt="summary of MC results" width="500" height="auto">
 
 ![Alt text](./images/summary.png?raw=true "Optional Title")
