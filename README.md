@@ -10,6 +10,8 @@ This was initally developed as a project for my Statistical Physics course, but 
 2. The progress is displayed in real-time.
 3. Once finished, a folder is created with the results of the run: A file with the mean magnetization per spin and total energy of each of the MC samples, for each of the temperatures. **Attention**: the file name only depends on N, so be careful with over-writing previous results.
 
+An example of the outout is found in the folder N50.
+
 
 ## Processed results (from MC simulations)
 <p align="center">
