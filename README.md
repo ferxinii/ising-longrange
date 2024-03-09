@@ -13,10 +13,7 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 ## Processed results (from MC simulations)
 <p align="center">
-<img src="./images/summary.png" alt="Summary of MC results" width="700" height="auto">
-</p>
-
-<p align="center">
+<img src="./images/summary.png" alt="Summary of MC results" width="700" height="auto" \>
 <img src="./images/m_evolution.jpg" alt="Moving average of m" width="700" height="auto">
 </p>
 
