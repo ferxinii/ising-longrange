@@ -1,6 +1,6 @@
 # Ising model with super long-range interactions ⚡️
 This repository includes:
--  Final project pdf. This is composed of an **analytic analysis** of the model and an exploration of the **Monte Carlo simulation** results.
+-  pdf with an **analytic analysis** of the model and an exploration of the **Monte Carlo simulation** results.
 -  Python code to run MC simulations of the model (for the case of zero field)
 
 This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it.
@@ -13,14 +13,14 @@ This was initally developed as a project for my Statistical Physics course, but 
 An example of the outout is found in the folder N50.
 
 
-## Processed results (from MC simulations)
+## Processed results from MC simulations
 <p align="center">
 <img src="./images/summary.png" alt="Summary of MC results" width="400" height="auto" />
 <img src="./images/m_evolution.jpg" alt="Moving average of m" width="400" height="auto">
 </p>
 
 
-## Analytical results (from project)
+## Analytical results (see pdf)
 Some of the relevant equations from the project:
 
  ``` math
@@ -32,6 +32,5 @@ c_V(T,H) = \frac{J}{T} \frac{1-m^2}{m^2 - \left( 1-\frac{k_B T}{J} \right)} \lef
 
 
 <p align="center">
-<img src="./images/surfaces_TH.png" alt="Summary of MC results" width="400" height="auto"/>
-<img src="./images/A_H01.png" alt="Summary of MC results" width="400" height="auto"/>
+<img src="./images/surfaces_TH.png" alt="Surfaces as a function of T and H" width="400" height="auto"/>
 </p>
