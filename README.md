@@ -20,6 +20,6 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 ## Analytical results (from project)
 <p align="center">
-<img src="./images/surfaces_TH.png" alt="Summary of MC results" />
-<img src="./images/A_H01.png" alt="Summary of MC results" />
+<img src="./images/surfaces_TH.png" alt="Summary of MC results" width="400" height="auto"/>
+<img src="./images/A_H01.png" alt="Summary of MC results" width="400" height="auto"/>
 </p>
