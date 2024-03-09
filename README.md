@@ -1,3 +1,11 @@
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
+
 # Ising model with super long-range interactions ⚡️
 This repository includes:
 -  Final project pdf. This is composed of an **analytic analysis** of the model and an exploration of the **Monte Carlo simulation** results
@@ -12,6 +20,8 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 
 ## Processed results (from project)
-<p style="text-align:center;"><img src="./images/summary.png" alt="summary of MC results" width="500" height="auto">
+<p align="center">
+<img src="./images/summary.png" alt="summary of MC results" width="500" height="auto">
+</p>
 
 ![Alt text](./images/summary.png?raw=true "Optional Title")
