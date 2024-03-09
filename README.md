@@ -1,11 +1,9 @@
 # Monte Carlo simulation of the Ising model with super long-range interactions ⚡️
-This was initally developed as an optional project for my Statistical Physics course. However, I revisited the project later and improved it. This repository includes the Python code that runs the simulations, as well as the MATLAB code used in the numerical analysis of the analytical model.
-
-In **numeric_matlab** you will find everything related to the numerical exploration, including the plots used for the project.
-
-In **results** you will find the results of running **main.py**, as well as the results of previous runs. Additionally, a MATLAB script reads those previous runs to generate the plot that is used for the project.
+This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it. This repository includes the project as ad pdf, and the Python code that runs the simulations.
 
 ## Running the code
-1. simply change the desired parameters in the main function. These include the number of atoms and number of Monte Carlo steps, as well as the temperature range. Don't go overboard or it might be too slow.
-2. Then you can just run it. An indicator lets you know how many steps of temperature you have done so you can keep the progress.
-3. Once finished, you will see a plot with the results of the run. This same plot and the data is automatically saved inside **simulation_results**.
+1. Simply run main.py . You will be asked to input the number of spins and the number of Monte Carlo steps to perform (see pdf). Higher values result in slower simulations, I recommend starting with 50 spins and 10000 steps to experiment.
+2. The progress is displayed in real-time.
+3. Once finished, a folder is created with the results of the run: A file with the mean magnetization per spin and total energy of each of the MC samples, for each of the temperatures. Attention: the file name only depends on N, so be careful with over-writing previous results.
+
+
