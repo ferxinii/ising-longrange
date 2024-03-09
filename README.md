@@ -24,8 +24,14 @@ Some of the relevant equations from the project:
 \begin{gather*} E = \frac{J}{2} - HM - \frac{J}{2N} M^2 \quad \quad m = \tanh{ \left( \frac{J}{k_BT} (m + \frac{H}{J}) \right)} \\  c_V(T,H) = \frac{J}{T} \frac{1-m^2}{m^2 - \left( 1-\frac{k_B T}{J} \right)} \left( m^2 + \frac{H}{J}m\right) \quad \quad \chi _M(T, H) = \frac{1}{J} \frac{1-m^2}{m^2-\left( 1- \frac{k_B T}{J}\right)} \end{gather*}
 ```
 
-| ``` math E = \frac{J}{2} - HM - \frac{J}{2N} M^2 ``` | ``` math m = \tanh{ \left( \frac{J}{k_BT} (m + \frac{H}{J}) \right)} |
-| $ c_V(T,H) = \frac{J}{T} \frac{1-m^2}{m^2 - \left( 1-\frac{k_B T}{J} \right)} \left( m^2 + \frac{H}{J}m\right) $ | $ \chi _M(T, H) = \frac{1}{J} \frac{1-m^2}{m^2-\left( 1- \frac{k_B T}{J}\right)} $ |
+ ``` math
+\begin{center}
+\begin{tabular}{c c}
+E = \frac{J}{2} - HM - \frac{J}{2N} M^2  &  m = \tanh{ \left( \frac{J}{k_BT} (m + \frac{H}{J}) \right)} \\ 
+c_V(T,H) = \frac{J}{T} \frac{1-m^2}{m^2 - \left( 1-\frac{k_B T}{J} \right)} \left( m^2 + \frac{H}{J}m\right)  &  \chi _M(T, H) = \frac{1}{J} \frac{1-m^2}{m^2-\left( 1- \frac{k_B T}{J}\right)}
+\end{tabular}
+\end{center}
+```
 
 
 <p align="center">
