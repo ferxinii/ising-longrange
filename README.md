@@ -3,7 +3,7 @@ This repository includes:
 -  Analytic analysis (see pdf)
 -  Python code to run MC simulations of the model
 
-This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it. This repository includes the project as ad pdf, and the Python code that runs the simulations.
+This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it. This repository includes the project as a pdf, and the Python code that runs the simulations. I include here some pictures from the project.
 
 ## Running the code
 1. Simply run main.py . You will be asked to input the number of spins and the number of Monte Carlo steps to perform (see pdf). Higher values result in slower simulations, I recommend starting with 50 spins and 10000 steps to experiment.
