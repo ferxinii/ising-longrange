@@ -19,10 +19,14 @@ This was initally developed as a project for my Statistical Physics course, but 
 
 
 ## Analytical results (from project)
-$$ E = \frac{J}{2} - HM - \frac{J}{2N} M^2 $$
-$$ m = \tanh{ \left( \frac{J}{k_BT} (m + \frac{H}{J}) \right)} $$
+$$ E = \frac{J}{2} - HM - \frac{J}{2N} M^2 \quad $$
+
+$$m = \tanh{ \left( \frac{J}{k_BT} (m + \frac{H}{J}) \right)} $$
+
 $$ c_V(T,H) = \frac{J}{T} \frac{1-m^2}{m^2 - \left( 1-\frac{k_B T}{J} \right)} \left( m^2 + \frac{H}{J}m\right) $$
+
 $$ \chi _M(T, H) = \frac{1}{J} \frac{1-m^2}{m^2-\left( 1- \frac{k_B T}{J}\right)} $$
+
 
 <p align="center">
 <img src="./images/surfaces_TH.png" alt="Summary of MC results" width="400" height="auto"/>
