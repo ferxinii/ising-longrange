@@ -13,14 +13,14 @@ This was initally developed as a project for my Statistical Physics course, but 
 An example of the outout is found in the folder N50.
 
 
-## Processed results (from MC simulations)
+## Processed results from MC simulations
 <p align="center">
 <img src="./images/summary.png" alt="Summary of MC results" width="400" height="auto" />
 <img src="./images/m_evolution.jpg" alt="Moving average of m" width="400" height="auto">
 </p>
 
 
-## Analytical results (from project)
+## Analytical results (see pdf)
 Some of the relevant equations from the project:
 
  ``` math
