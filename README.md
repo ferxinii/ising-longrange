@@ -11,7 +11,7 @@ This was initally developed as a project for my Statistical Physics course, but 
 3. Once finished, a folder is created with the results of the run: A file with the mean magnetization per spin and total energy of each of the MC samples, for each of the temperatures. Attention: the file name only depends on N, so be careful with over-writing previous results.
 
 
-## Processed results (from project)
+## Processed results (from MC simulations)
 <p align="center">
 <img src="./images/summary.png" alt="Summary of MC results" width="700" height="auto">
 </p>
@@ -20,3 +20,5 @@ This was initally developed as a project for my Statistical Physics course, but 
 <img src="./images/m_evolution.jpg" alt="Moving average of m" width="700" height="auto">
 </p>
 
+
+## Analytical results (from project)
