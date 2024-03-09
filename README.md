@@ -15,8 +15,8 @@ An example of the outout is found in the folder N50.
 
 ## Processed results (from MC simulations)
 <p align="center">
-<img src="./images/summary.png" alt="Summary of MC results" width="400" height="auto" />
-<img src="./images/m_evolution.jpg" alt="Moving average of m" width="400" height="auto">
+<img src="./images/summary.png" alt="Summary of MC results" width="500" height="auto" />
+<img src="./images/m_evolution.jpg" alt="Moving average of m" width="500" height="auto">
 </p>
 
 
@@ -32,6 +32,5 @@ c_V(T,H) = \frac{J}{T} \frac{1-m^2}{m^2 - \left( 1-\frac{k_B T}{J} \right)} \lef
 
 
 <p align="center">
-<img src="./images/surfaces_TH.png" alt="Summary of MC results" width="400" height="auto"/>
-<img src="./images/A_H01.png" alt="Summary of MC results" width="400" height="auto"/>
+<img src="./images/surfaces_TH.png" alt="Surfaces as a function of T and H" width="400" height="auto"/>
 </p>
