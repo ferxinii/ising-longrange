@@ -21,7 +21,7 @@ An example of the outout is found in the folder N50.
 
 
 ## Analytical results (see pdf)
-Some of the relevant equations from the project:
+Some of the relevant equations found in the project:
 
  ``` math
 \begin{matrix}
