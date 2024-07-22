@@ -6,11 +6,10 @@ This repository includes:
 This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it.
 
 ## Running the code
-1. Simply run main.py . You will be asked to input the number of spins and the number of Monte Carlo steps to perform (see pdf). Higher values result in slower simulations, I recommend starting with 50 spins and 10000 steps to experiment.
-2. The progress is displayed in real-time.
-3. Once finished, a folder is created with the results of the run: A file with the mean magnetization per spin and total energy of each of the MC samples, for each of the temperatures. **Attention**: the file name only depends on N, so be careful with over-writing previous results.
+1. Simply run *main.py*. Input the number of spins and the number of Monte Carlo steps to perform. I recommend starting with 50 spins and 10000 steps.
+2. Once finished, a folder is created with the results of the run: A file with the mean magnetization per spin and total energy of each of the MC samples, for each of the temperatures. Be careful with over-writing previous results.
 
-An example of the outout is found in the folder N50.
+An example of the output is found in the folder N50.
 
 
 ## Processed results from MC simulations
