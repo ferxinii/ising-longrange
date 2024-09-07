@@ -3,7 +3,7 @@ This repository includes:
 -  pdf with an **analytic analysis** of the model and an exploration of the **Monte Carlo simulation** results.
 -  Python code to run MC simulations of the model (for the case of zero field).
 
-This was initally developed as a project for my Statistical Physics course, but I later revisited the project and improved it.
+This was initally developed as a project for my Statistical Physics course, with a later revision to improve it.
 
 ## Running the code
 1. Simply run *main.py*. Input the number of spins and the number of Monte Carlo steps to perform. I recommend starting with 50 spins and 10000 steps.
