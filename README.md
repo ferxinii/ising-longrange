@@ -4,6 +4,8 @@ We consider an Ising model with hamiltonian:
 \mathcal{H}(\{ s_i\}) = \frac{-J}{N} \sum_{i=1}^{N-1} \sum_{j>i}^N s_i s_j - H \sum_{i=1}^Ns_i
 ```
 
+Here, $$J$$ is the strenght of interaction, and $$H$$ an external magnetic field.
+
 This repository includes:
 -  pdf with an **analytic analysis** of the model and an exploration of the **Monte Carlo simulation** results.
 -  Python code to run MC simulations of the model (for the case of zero field).
