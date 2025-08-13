@@ -1,5 +1,5 @@
 # Ising model with super long-range interactions ⚡️
-We consider an Ising model with hamiltonian:
+We consider an Ising model where all spins interact with all other spins, with hamiltonian:
 ```math
 \mathcal{H}(\{ s_i\}) = \frac{-J}{N} \sum_{i=1}^{N-1} \sum_{j>i}^N s_i s_j - H \sum_{i=1}^Ns_i
 ```
